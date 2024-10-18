@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@std/fs": "jsr:@std/fs@^1.0.4"
+  },
+  "name": "@webuildit/tree",
+  "version": "0.1.1",
+  "license": "MIT",
+  "exports": "./main.ts"
+}
